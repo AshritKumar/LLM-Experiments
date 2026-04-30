@@ -1,4 +1,4 @@
-# Adds the attention blocks.
+# Adds the causal attention blocks.
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
